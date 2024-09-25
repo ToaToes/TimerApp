@@ -1,1 +1,1 @@
-Kotlin(jetpack compose), timer function and UI design
+Kotlin(jetpack compose), timer function and the UI design
